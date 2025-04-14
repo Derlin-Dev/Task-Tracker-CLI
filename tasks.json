@@ -1,0 +1,6 @@
+[
+  { "id": 1884, "description": "Comprar para en la panareria", "status": "IN-PROGRESS", "createDT": "2025-04-13T18:12:27.817882", "updateDT": "2025-04-13T21:10:28.1110858" },
+  { "id": 5492, "description": "Compar pan y Jugo de pina en la panareria", "status": "DONE", "createDT": "2025-04-13T20:21:42.5826944", "updateDT": "2025-04-13T20:28:01.2273722" },
+  { "id": 6191, "description": "\Ir al supermercado manana\", "status": "IN-PROGRESS", "createDT": "2025-04-13T20:25:43.372933", "updateDT": "2025-04-13T21:33:04.1741071" },
+  { "id": 2357, "description": "\Terminar de disenar la base de datos\", "status": "TODO", "createDT": "2025-04-13T20:42:25.6282154", "updateDT": "2025-04-13T20:42:25.6444161" }
+]
